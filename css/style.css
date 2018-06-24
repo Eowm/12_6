@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: orange;
+}
+
+body li {
+  list-style-type: none;
+}
+
+body h1 {
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+body button {
+  width: 200px;
+  height: 40px;
+  background-color: black;
+  border: none;
+  color: white;
+  display: block;
+  margin: 10 auto;
+}
+
+body input {
+  width: 300px;
+  height: 40px;
+}
+
+body ul {
+  background-color: green;
+  width: 300px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=style.css.map */

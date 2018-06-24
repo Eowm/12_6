@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background-color: orange;
+	li{
+		list-style-type: none;
+	}
+	h1{
+		padding-top: 100px;
+		padding-bottom: 30px;
+	}
+	button{
+		width: 200px;
+		height: 40px;
+		background-color:black;
+		border: none;
+		color: white;
+		display: block;
+		margin: 10 auto;
+	}
+	input {
+		width: 300px;
+		height: 40px;
+	}
+	ul{
+		background-color:green;
+		width: 300px;
+		margin: 0 auto;
+	}
+}
+
+
