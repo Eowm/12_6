@@ -11,7 +11,7 @@ body {
 	button{
 		width: 200px;
 		height: 40px;
-		background-color:black;
+		background-color:#A37C20;
 		border: none;
 		color: white;
 		display: block;
@@ -22,10 +22,17 @@ body {
 		height: 40px;
 	}
 	ul{
-		background-color:green;
-		width: 300px;
-		margin: 0 auto;
+		position: relative;
 	}
+	li{
+			background-color:#A37C20;
+			color: white;
+			width: 20%;
+			margin: 0 auto;
+			position: absolute;
+			top: 0;
+			left: 40%;
+		}
 }
 
 

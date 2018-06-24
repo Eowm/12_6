@@ -18,6 +18,6 @@ function showCountriesList(resp) {
     resp.forEach(function(item) {
        var liEl = document.createElement('li');
     	liEl.innerText = 'Country: ' + item.name  +'\nCapital:  '+ item.capital +'\nPopulation:  '+ item.population+'\n\n';
-    	countriesList.appendChild(countriesListEl);
+    	countriesList.appendChild(liEl);
     });
 }
